@@ -15,6 +15,7 @@ Además está en desarrollo el editor que permitirá la generación de aventuras
 El desarrollo de la aplicación se ha realizado en español, pero la aplicación como tal está traducida al inglés.
 De momento tiene disponibles todas la aventuras de la primera campaña en español y las 3 primeras en inglés.
 
+[Descarga](https://github.com/neijun81/DunApp/releases/tag/v0.80)
 
 **Dungeon Universalis APP**
 
@@ -32,3 +33,4 @@ Additionally, there is an ongoing development of an editor that will enable adve
 
 The application development has been carried out in Spanish, but the app itself is translated into English. Currently, all adventures from the first campaign are available in Spanish, and the first three are available in English.
 
+[Download](https://github.com/neijun81/DunApp/releases/tag/v0.80)
